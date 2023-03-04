@@ -9,14 +9,14 @@
 //   print('Hello Mr. $name. Welcome to Level-X');
 // }
 
-// import 'dart:io';
+import 'dart:io';
 
-// void main() {
-//   print('Enter your name');
-//   var name = stdin.readLineSync();
+void main() {
+  print('Enter your name');
+  var name = stdin.readLineSync();
 
-//   print('hello mr $name. Welcome to Dart');
-// }
+  print('hello mr $name. Welcome to Dart');
+}
 
-// import 'dart:io';
+
 
